@@ -1,5 +1,13 @@
 # SQLAlchemy Homework - Surfs Up!
 
+Climate Analysis on Honolulu Hawaii using Python and SQL Alchemy. 
+
+By: Craig Nowakowski
+
+Analysis located in the Python Notebook titled "climate_starter.ipynb". 
+
+Analysis were done using SQL Alachemy, Pandas DF, and Matplotlib.
+
 ### Before You Begin
 
 1. Create a new repository for this project called `sqlalchemy-challenge`. **Do not add this homework to an existing repository**.
